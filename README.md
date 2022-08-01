@@ -4,7 +4,7 @@
 
 ### My PC Specs
 ![Micro](https://img.shields.io/badge/AsRock-Z370%20Extreme%204-blue?style=for-the-badge)
-![Micro](https://img.shields.io/badge/Intel-Core_i3_8th-blue?style=for-the-badge&logo=intel&logoColor=white)
+![Micro](https://img.shields.io/badge/Intel-Core_i5_8th-blue?style=for-the-badge&logo=intel&logoColor=white)
 ![amd](https://img.shields.io/badge/AMD-SAPHIRE%20Nitro%20R9%20380%204GB-blue?style=for-the-badge&logo=amd&logoColor=white)
 
 <!--
